@@ -1,0 +1,6 @@
+﻿Hello <%UserName!%>!
+
+You have just created an account on my website. 
+
+You can login any time at: http://mysite.com/Login.aspx
+
